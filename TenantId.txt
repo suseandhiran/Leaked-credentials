@@ -1,0 +1,4 @@
+  "AadClientId": "5dbb17a6-b1fb-42cf-a60f-52c25a916f45",
+  "AadSecret": "AgH8Q~MN87F3jAqMymcgDCJmfcuUXV03y5skgcfQ",
+  "AadTenantDomain": "agovtest.onmicrosoft.com",
+  "AadTenantId": "24e8a0e0-072f-475d-b323-5243a667f762",
